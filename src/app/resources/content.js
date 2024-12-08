@@ -91,11 +91,11 @@ const about = {
                 ]
             },
             {
-                company: 'Creativ3',
-                timeframe: '2018 - 2022',
-                role: 'Lead Designer',
+                company: 'FL',
+                timeframe: '2009 - 2022',
+                role: 'Senior Developer, Project Manager',
                 achievements: [
-                    <>Developed a design system that unified the brand across multiple platforms, improving design consistency by 40%.</>,
+                    <>Developed a system that unified the brand across multiple platforms.</>,
                     <>Led a cross-functional team to launch a new product line, contributing to a 15% increase in overall company revenue.</>
                 ],
                 images: [ ]
