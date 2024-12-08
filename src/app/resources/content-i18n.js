@@ -262,7 +262,8 @@ const createI18nContent = (t) => {
         blog,
         finance,
         gallery,
-        cafe
+        cafe,
+        work
     }
 };
 
